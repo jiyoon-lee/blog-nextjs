@@ -1,5 +1,6 @@
 # Blog
 Next.js를 활용하여 블로그를 만들어봄으로써 학습한다.
+
 참고: https://academy.dream-coding.com/
 
 ## 사용기술
