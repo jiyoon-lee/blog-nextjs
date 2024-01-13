@@ -1,5 +1,5 @@
 # Blog
-Next.js를 활용하여 블로그를 만들어봄으로써 학습한다.
+Next.js를 활용하여 블로그를 만들어봄으로써 학습하고 이후에 소스코드를 활용할 수도 있습니다.
 
 참고: https://academy.dream-coding.com/
 
